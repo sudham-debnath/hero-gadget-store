@@ -1,6 +1,6 @@
-# HeroGadget Starter Repository
+# HeroGadget Store Repository -
 
- Best E-commerce platform for buying high quality Smart Home Appliances at extremely affordable Price.
+Best E-commerce platform for buying high quality Smart Home Appliances at extremely affordable Price.
 
 ## Live Link
 Hosted in Netlify -> [HeroGadget](https://hero-gadget-store.netlify.app/)
